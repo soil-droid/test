@@ -1,0 +1,5 @@
+{{#user}}
+Name: Suhail Ahmed
+Skills: HTML, CSS, JS, Next.js
+Email: ahmedsuhail725@gmail.com
+{{/user}}
